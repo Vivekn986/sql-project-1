@@ -1,2 +1,2 @@
 # sql-project-1
-employmanagment system
+employee managment system
